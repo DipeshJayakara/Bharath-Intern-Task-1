@@ -4,7 +4,10 @@
 This is a simple web project created as part of the Bharath Intern Task 1. It includes HTML, CSS, and JavaScript to showcase a functional webpage.
 
 ## 📸 Screenshots  
-![Homepage Screenshot](assets/aboutme.png)
+![About Me](assets/aboutme.png)
+![Contact](assets/contact.png)
+![Portfolio](assets/portfolio.png)
+![Services](assets/service.png)
 
 ## ⚙️ Technologies Used  
 - HTML  
