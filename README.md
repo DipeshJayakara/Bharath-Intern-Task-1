@@ -13,6 +13,4 @@ This is a simple web project created as part of the Bharath Intern Task 1. It in
 - HTML  
 - CSS  
 - JavaScript  
- 
-Open Here: 
-        https://dipeshjayakara.github.io/Bharath-Intern-Task-1/
+
