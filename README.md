@@ -7,7 +7,7 @@ This is a simple web project created as part of the Bharath Intern Task 1. It in
 ![About Me](assets/aboutme.png)
 ![Contact](assets/contact.png)
 ![Portfolio](assets/portfolio.png)
-![Services](assets/service.png)
+![Services](assets/services.png)
 
 ## ⚙️ Technologies Used  
 - HTML  
